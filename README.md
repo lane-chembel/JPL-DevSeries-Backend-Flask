@@ -69,7 +69,7 @@ Note: This is not necessary if you are not using Docker.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/issues/spaceshiptrip/DevSeries-Backend-Flask?style=for-the-badge
 [contributors-url]: https://github.com/spaceshiptrip/TechInterview-Backend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/spaceshiptrip/DevSeries-Backend-Flask?style=social?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/spaceshiptrip/DevSeries-Backend-Flask?style=for-the-badge
 [forks-url]: https://github.com/spaceshiptrip/TechInterview-Backend/network/members
 [issues-shield]: https://img.shields.io/github/issues/spaceshiptrip/DevSeries-Backend-Flask?style=for-the-badge
 [issues-url]: https://github.com/spaceshiptrip/TechInterview-Backend/issues

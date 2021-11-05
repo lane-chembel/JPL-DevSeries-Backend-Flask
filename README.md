@@ -15,7 +15,7 @@
 
 
 
-# DevSeries-Backend-Flask
+# Backend Flask Server
 
 This is a simple `hello world` type OOP Flask application that can be used as a template for multiple uses.
 

@@ -16,7 +16,7 @@ def getSomeData():
 
 @app.route("/getSomeDataFromFile")
 def getSomeDataFromFile():
-    r = my_data.getJsonFromFile('./hello.json')
+    r = my_data.getJsonFromFile('./data/hello.json')
     return Response(json.dumps(r), mimetype='application/json')
 
 if __name__ == "__main__":

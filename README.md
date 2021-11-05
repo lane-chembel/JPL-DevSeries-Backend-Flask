@@ -15,7 +15,7 @@
 
 
 
-# TechInterview-Backend
+# DevSeries-Backend-Flask
 
 This is a simple `hello world` type OOP Flask application that can be used as a template for multiple uses.
 
@@ -67,14 +67,14 @@ Note: This is not necessary if you are not using Docker.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/spaceshiptrip/TechInterview-Backend?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/issues/spaceshiptrip/DevSeries-Backend-Flask?style=for-the-badge
 [contributors-url]: https://github.com/spaceshiptrip/TechInterview-Backend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/spaceshiptrip/TechInterview-Backend?style=social?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/spaceshiptrip/DevSeries-Backend-Flask?style=social?style=for-the-badge
 [forks-url]: https://github.com/spaceshiptrip/TechInterview-Backend/network/members
-[issues-shield]: https://img.shields.io/github/issues/spaceshiptrip/TechInterview-Backend?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/spaceshiptrip/DevSeries-Backend-Flask?style=for-the-badge
 [issues-url]: https://github.com/spaceshiptrip/TechInterview-Backend/issues
-[license-shield]: https://img.shields.io/github/license/spaceshiptrip/TechInterview-Backend?style=for-the-badge
-[license-url]: https://github.com/spaceshiptrip/TechInterview-Backend/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/spaceshiptrip/DevSeries-Backend-Flask?style=for-the-badge
+[license-url]: https://github.com/spaceshiptrip/DevSeries-Backend-Flask/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jaytorres-robotics/
 [product-screenshot]: images/screenshot.png

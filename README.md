@@ -100,7 +100,7 @@ Test with either cURL commands:
     docker ps
     ```
 * Non Dockerized version
-  * In the terminal running the server, press <CTRL>-c
+  * In the terminal running the server, press \<CTRL\>-c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

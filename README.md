@@ -72,6 +72,9 @@ Features:
   * Pip 3
 
 * Optional to run in [virtual env](https://docs.python-guide.org/dev/virtualenvs/)
+  ```
+  source bin/activate
+  ```
 
 * Build the server
   ```

@@ -72,10 +72,16 @@ Features:
   * Pip 3
 
 * Optional to run in [virtual env](https://docs.python-guide.org/dev/virtualenvs/)
-  ```
-  source bin/activate
-  ```
-
+  * Run the command to get into the virtual env
+    ```
+    source bin/activate
+    ```
+  * If errors are seen, run the command:
+    ```
+    rm -fr ./bin
+    ```
+    And install the virtualenv through the [docs](https://docs.python-guide.org/dev/virtualenvs/) 
+  
 * Build the server
   ```
   pip3 install -r requirements.txt

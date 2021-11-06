@@ -48,6 +48,10 @@ Features:
    ```
 
 ## Build and Execute
+* Change to the project directory
+  ```
+  cd DevSeries-Backend-Flask
+  ```
 
 ### Building and Running with Docker
 **Note: This is not necessary if you are not using Docker.**

@@ -88,6 +88,19 @@ Test with either cURL commands:
   curl http://localhost:5001/getSomeDataFromFile
   ```
 
+## Stopping Server
+* Dockerized version
+  * Open a terminal prompt
+  * If you used the run command listed above:
+    ```
+    docker stop be
+    ```
+  * Replace `be` if you chose another name which can be found for port `5000`:
+    ```
+    docker ps
+    ```
+* Non Dockerized version
+  * In the terminal running the server, press <CTRL>-c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

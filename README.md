@@ -27,9 +27,30 @@ Features:
 * Simple OOP
 * 2 defined endpoints
 
+## Installation
+
+### Prerequisite for Python Flask Server
+* To do development through Docker only:
+  * [Docker](https://docs.docker.com/get-docker/)
+* To do development outside of Docker containers:
+  * [python3](https://www.python.org/downloads/)
+  * [pip3](https://www.activestate.com/resources/quick-reads/how-to-install-and-use-pip3/)
+
+### Downloading this code from this repo
+1. Create a directory to save the code:
+   ```
+   mkdir Workspace
+   cd Workspace
+   ```
+2. Download this repo:
+   ```
+   git clone https://github.com/spaceshiptrip/DevSeries-Backend-Flask.git
+   ```
+
+## Build and Execute
 
 ### Building and Running with Docker
-Note: This is not necessary if you are not using Docker.
+**Note: This is not necessary if you are not using Docker.**
 
 * Build the docker container:
   ```
@@ -42,12 +63,11 @@ Note: This is not necessary if you are not using Docker.
   ```
 
 ### Non Dockerized Version
-
-* Pre-requisite: 
+* Pre-requisites: 
   * Python 3
   * Pip 3
 
-* Run in [virtual env](https://docs.python-guide.org/dev/virtualenvs/)
+* Optional to run in [virtual env](https://docs.python-guide.org/dev/virtualenvs/)
 
 * Build the server
   ```
@@ -57,13 +77,17 @@ Note: This is not necessary if you are not using Docker.
   ```
   python3 app.py
   ```
-### Test server response
+## Post Startup
 
-* cURL ([Windows](https://stackoverflow.com/questions/9507353/how-do-i-install-and-use-curl-on-windows))
+### Test server response
+Test with either cURL commands:
+
+* cURL ([Windows](https://stackoverflow.com/questions/9507353/how-do-i-install-and-use-curl-on-windows)  [MacOS](https://idratherbewriting.com/learnapidoc/docapis_install_curl.html#:~:text=at%20paligo.net.-,Install%20curl%20on%20Mac,curl%20is%20probably%20already%20installed.))
   ```
   curl http://localhost:5001/getSomeData
   curl http://localhost:5001/getSomeDataFromFile
   ```
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

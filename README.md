@@ -97,8 +97,8 @@ Test with either cURL commands:
 
 * cURL ([Windows](https://stackoverflow.com/questions/9507353/how-do-i-install-and-use-curl-on-windows)  [MacOS](https://idratherbewriting.com/learnapidoc/docapis_install_curl.html#:~:text=at%20paligo.net.-,Install%20curl%20on%20Mac,curl%20is%20probably%20already%20installed.))
   ```
-  curl http://localhost:5001/getSomeData
-  curl http://localhost:5001/getSomeDataFromFile
+  curl http://localhost:5000/getSomeData
+  curl http://localhost:5000/getSomeDataFromFile
   ```
 
 ## Stopping Server

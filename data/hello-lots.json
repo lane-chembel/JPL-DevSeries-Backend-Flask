@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "message": "Hello from Flask file!", 
+        "ok": true 
+    },
+    {
+        "id": 2,
+        "message": "Hello from Flask file!", 
+        "ok": true 
+    },
+    {
+        "id": 3,
+        "message": "Hello from Flask file!", 
+        "ok": true 
+    },
+    {
+        "id": 4,
+        "message": "Hello from Flask file!", 
+        "ok": true 
+    },
+    {
+        "id": 5,
+        "message": "Hello from Flask file!", 
+        "ok": true 
+    }
+
+]

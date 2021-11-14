@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Cranston, Bryan",
+        "project code": "108553",
+        "task": "Mission Lead",
+        "level of effort":0.75
+    },
+    {
+        "name": "Dinklage, Peter",
+        "project code": "138445",
+        "task": "Systems Engineer",
+        "level of effort":0.50
+    },
+    {
+        "name": "Jung, HoYeon",
+        "project code": "108845",
+        "task": "Software Dev",
+        "level of effort":1.00
+    },
+    {
+        "name": "Jones, Leslie",
+        "project code": "129923",
+        "task": "Subsystem CogE",
+        "level of effort":0.75
+    }
+]

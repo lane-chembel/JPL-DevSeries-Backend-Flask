@@ -19,5 +19,10 @@ def getSomeDataFromFile():
     r = my_data.getJsonFromFile('./data/hello.json')
     return Response(json.dumps(r), mimetype='application/json')
 
+@app.route("/getEmployees")
+def getEmployees():
+    emp = my_data.getJsonFromFile('./data/employees.json')
+    return jsonify(emp)
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0")

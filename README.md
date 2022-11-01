@@ -63,7 +63,7 @@ Features:
 
 * Run the app through the container:
   ```
-  docker run -it --rm -v $(PWD):/app -p 5000:5000 -e CHOKIDAR_USEPOLLING=true --name be --rm be:dev
+  docker run -it --rm -v ${PWD}:/app -p 5000:5000 -e CHOKIDAR_USEPOLLING=true --name be --rm be:dev
   ```
 
 ### Non Dockerized Version
